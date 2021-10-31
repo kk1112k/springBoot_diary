@@ -14,6 +14,7 @@ public class HomeController {
     public String store() {
         return "store.html";
     }
+   
 }
 
 
